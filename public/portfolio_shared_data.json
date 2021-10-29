@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Scott Lease",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student and Aspiring Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/scottie-l",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/scottie-lease",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
