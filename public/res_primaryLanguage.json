@@ -39,8 +39,8 @@
         "startDate": "Oct. 2021",
         "description": "This is a User vs computer game inspired by, and based on the rules of Battleship. The object of the game is to guess where the computer has randomly placed their boats before all yours are taken down first.",
         "images": [
-          "images/portfolio/BattleShip/p1.jpg",
-          "images/portfolio/BattleShip/p2.jpg"
+          "images/portfolio/BattleShip/p1.png",
+          "images/portfolio/BattleShip/p2.png"
         ],
         "url": "https://github.com/scottie-l/BattleShipGame",
         "technologies": [
@@ -55,8 +55,8 @@
         "startDate": "Oct. 2021",
         "description": "A fun game that where you get to answer questions about me and then see a quick bio",
         "images": [
-          "images/portfolio/Guessing game/p1.jpg",
-          "images/portfolio/Guessing game/p2.jpg"
+          "images/portfolio/Guessing game/p1.png",
+          "images/portfolio/Guessing game/p2.png"
         ],
         "url": "https://github.com/scottie-l/Guessing-game",
         "technologies": [
@@ -69,37 +69,25 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Les Wilins & Assco.",
+        "title": "X-ray service technician",
+        "years": "11.2008 - 04.2021",
         "mainTech": [
-          "Angular 8/9/10"
+          "MS Windows"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Fuji propietary SaaS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Starbuck Coffee Company",
+        "title": "Lab technician",
+        "years": "09.2004 - 06.2008",
         "mainTech": [
-          "Angular 7/8"
+          "MS windows office suite"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Propietary program - TurboChef"
         ]
       }
     ]
