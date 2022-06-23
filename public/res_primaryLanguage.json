@@ -1,9 +1,9 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Scott Lease. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Scott Lease. :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now my portfolio. If you like this portfolio, make sure to ⭐ the repository. Thank you 💜",
       "section_name": {
-        "about": "Hello, my name is Scott Lease. I come from a wide body of work experience ranging from construction to cooking. In my previous role, I installed, maintained, and repaired X-ray machines and equipment. During this time, digital X-rays took over the industry. I had to learn how to integrate X-ray machines with the digital X-rays and some troubleshooting on the computer systems. It was at this time that I began to research and learn more about programming and that sparked my interest in developing. I took some online classes, but that only broadened my horizon of all the possibilities that are available. I now want to really level up my game to see how best I can break into the industry that I see has so much potential. I’m so excited to continue my journey and improve the lives and world through technology and my coding skills. I hope you’ll join me on my journey to see how I improve the world.",
+        "about": "JavaScript Developer with a wide body of work experience. Experienced in digital integration and a clear understanding of how programming can help in the world. Excited about the opportunity to use full-stack applications.",
         "projects": "Projects",
         "skills": "Skills",
         "experience": "Experience"
@@ -11,15 +11,22 @@
     },
     "projects": [
       {
-        "title": "301 Class Project",
-        "startDate": "Nov. 2021",
-        "description": "Soon to be an awesome expanded application I will be working on. I've learned many technologies and have improved my coding skills greatly since 201. The application will do magnificent, amazing stuff.",
+        "title": "Vacation Ratings",
+        "startDate": "Mar. 2022",
+        "description": "This application is our version of a vacation rating website for locations of Users. Users will be authenticated & sign into their own accounts where they can add a description of their stay at a location. They will also be able to rate their stay and give other details, like expeneses and duration of their stay. Users will also have the ability to upload an image of that loation. Users will also be able to search the site for other reviews by using the search box at the top of the page.",
         "images": [
-          "images/portfolio/301 Project/p1.jpg",
-          "images/portfolio/301 Project/p2.jpg"
+          "images/portfolio/VacRate/Review.png",
+          "images/portfolio/VacRate/Submit.png",
+          "images/portfolio/VacRate/Home.png"
         ],
-        "url": "",
+        "url": "https://vacation-ratings.netlify.app/",
         "technologies": [
+          "Auth0",
+          "React",
+          "React-Redux",
+          "React-bootstrap",
+          "Firebase",
+          "Material UI",
           {
             "class": "devicon-angularjs-plain",
             "name": "Angular"
@@ -35,15 +42,19 @@
         ]
       },
       {
-        "title": "BattleShip",
-        "startDate": "Oct. 2021",
-        "description": "This is a User vs computer game inspired by, and based on the rules of Battleship. The object of the game is to guess where the computer has randomly placed their boats before all yours are taken down first.",
+        "title": "Code Against Sanity",
+        "startDate": "Feb. 2022",
+        "description": "Code Against Sanity (CAS) is our idea of what that popular card game: Cards Against Humanity™ would look like if it was made in the eyes of a software developer. More specifically, one going through a coding boot-camp.",
         "images": [
-          "images/portfolio/BattleShip/p1.png",
-          "images/portfolio/BattleShip/p2.png"
+          "images/portfolio/CAS/",
+          "images/portfolio/CAS/"
         ],
-        "url": "https://github.com/scottie-l/BattleShipGame",
+        "url": "https://github.com/CodeAgainstSanity/CAS-backend/blob/dev/README.md",
         "technologies": [
+          "node.js",
+          "Socket.io",
+          "MongoDB",
+          "Heroku",
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -51,15 +62,21 @@
         ]
       },
       {
-        "title": "Guessing game",
-        "startDate": "Oct. 2021",
-        "description": "A fun game that where you get to answer questions about me and then see a quick bio",
+        "title": "In{Spectre}",
+        "startDate": "Nov. 2021",
+        "description": "Searching for a fright? Inspectre is an application that lets users search for haunted locations of interest near them. Locations will contain backstories, reviews of the location, and pictures.",
         "images": [
-          "images/portfolio/Guessing game/p1.png",
-          "images/portfolio/Guessing game/p2.png"
+          "images/portfolio/In{Specre}/ins.image.png",
+          "images/portfolio/In{Specre}/ins.map.png",
+          "images/portfolio/In{Specre}/ins.lib.png"
         ],
-        "url": "https://github.com/scottie-l/Guessing-game",
+        "url": "https://in-spectre.netlify.app/",
         "technologies": [
+          "auth0-react",
+          "express",
+          "mongoose",
+          "jsonwebtoken",
+          "jwks-rsa",
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -69,7 +86,7 @@
     ],
     "experience": [
       {
-        "company": "Les Wilins & Assco.",
+        "company": "Les Wilins & Assoc.",
         "title": "X-ray service technician",
         "years": "11.2008 - 04.2021",
         "mainTech": [
