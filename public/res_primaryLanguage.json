@@ -15,9 +15,9 @@
         "startDate": "Mar. 2022",
         "description": "This application is our version of a vacation rating website for locations of Users. Users will be authenticated & sign into their own accounts where they can add a description of their stay at a location. They will also be able to rate their stay and give other details, like expeneses and duration of their stay. Users will also have the ability to upload an image of that loation. Users will also be able to search the site for other reviews by using the search box at the top of the page.",
         "images": [
-          "images/portfolio/VacRate/Review.png",
+          "images/portfolio/VacRate/Home.png",
           "images/portfolio/VacRate/Submit.png",
-          "images/portfolio/VacRate/Home.png"
+          "images/portfolio/VacRate/Review.png"
         ],
         "url": "https://vacation-ratings.netlify.app/",
         "technologies": [
@@ -28,16 +28,8 @@
           "Firebase",
           "Material UI",
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
@@ -66,9 +58,9 @@
         "startDate": "Nov. 2021",
         "description": "Searching for a fright? Inspectre is an application that lets users search for haunted locations of interest near them. Locations will contain backstories, reviews of the location, and pictures.",
         "images": [
-          "images/portfolio/In{Specre}/ins.image.png",
-          "images/portfolio/In{Specre}/ins.map.png",
-          "images/portfolio/In{Specre}/ins.lib.png"
+          "images/portfolio/In{Spectre}/ins.image.png",
+          "images/portfolio/In{Spectre}/ins.map.png",
+          "images/portfolio/In{Spectre}/ins.lib.png"
         ],
         "url": "https://in-spectre.netlify.app/",
         "technologies": [
