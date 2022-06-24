@@ -38,8 +38,8 @@
         "startDate": "Feb. 2022",
         "description": "Code Against Sanity (CAS) is our idea of what that popular card game: Cards Against Humanity™ would look like if it was made in the eyes of a software developer. More specifically, one going through a coding boot-camp.",
         "images": [
-          "images/portfolio/CAS/",
-          "images/portfolio/CAS/"
+          "images/portfolio/CAS/CAS.playscreen.png",
+          "images/portfolio/CAS/CASCharizard.png"
         ],
         "url": "https://github.com/CodeAgainstSanity/CAS-backend/blob/dev/README.md",
         "technologies": [
